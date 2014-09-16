@@ -80,7 +80,7 @@
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.72909716,  -73.6685164]},  "properties": {"name": "133 Sunset Terrace"}},
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.73056381,  -73.66693282]}, "properties": {"name": "200 Sunset Terrace"}},
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.73101145,  -73.68046725]}, "properties": {"name": "Troy Building"}},
-		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.72922799,  -73.6817826)]}, "properties": {"name": "Voorhees Computing Center (VCC)"}},
+		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.72922799,  -73.6817826]}, "properties": {"name": "Voorhees Computing Center (VCC)"}},
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.73084831,  -73.68251216]}, "properties": {"name": "Walker Laboratory"}},
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.72793311,  -73.67546439]}, "properties": {"name": "Warren Hall"}},
 		{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [42.73169707,  -73.68312478]}, "properties": {"name": "West Hall"}},
